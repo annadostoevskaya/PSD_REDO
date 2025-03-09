@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=PSD_PMIC.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=PSD_IO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=PSD_IO.SchDoc|FileName=PSD_PMIC.SchDoc|SheetNumber=1
